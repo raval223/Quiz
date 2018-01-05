@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check_answer">Check your score</string>
+    <string name="answer_5_3">My child has the kind of mood I want her to have</string>
+    <string name="answer_5_2">YES! (like my wife/husband but shhh)</string>
+    <string name="answer_5_1">Normal children are emotionally stable</string>
+    <string name="question_5">5. Does your child change the mood from happy to terrifying sadness in one second?</string>
+    <string name="answer_4_3">At night</string>
+    <string name="answer_4_2">When I\'m totally exhausted</string>
+    <string name="answer_4_1">When I\'m rested and full of energy</string>
+    <string name="question_4">4. When is the best time to play?</string>
+    <string name="answer_3_3">Of course, she/he knows that I love to change 2 diapers one after another</string>
+    <string name="answer_3_2">Never</string>
+    <string name="answer_3_1">She/he make a poo to a normal toilet bowl reading a newspaper</string>
+    <string name="question_3">3. Does your child make a poo only after change of diaper into new one?</string>
+    <string name="answer_2_3">I don\'t have power sockets at home</string>
+    <string name="answer_2_2">Of course, especially when I look at her</string>
+    <string name="answer_2_1">She\'s never done this before</string>
+    <string name="question_2">2. Does your child love to put finger into power socket?</string>
+    <string name="answer_1_3">Childs can eat soap foam?!</string>
+    <string name="answer_1_2">Never</string>
+    <string name="answer_1_1">Always</string>
+    <string name="question_1">1. Does your child eats foam while taking bath?</string>
+    <string name="subtitle">(Please answer below questions to check if there is everything ok with you child)</string>
+    <string name="quiz_title">Is your 1 year baby developing properly?</string>
+    <string name="name">What\'s your child name?</string>
+    <string name="reset">RESET</string>
+    <string name="check_your_score">Check your score</string>
+    <string name="ok">OK</string>
+
+
+</resources>

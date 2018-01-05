@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="group1" type="id">group1</item>
+    <item name="group2" type="id">group2</item>
+    <item name="group3" type="id">group3</item>
+    <item name="group4" type="id">group4</item>
+    <item name="group5" type="id">group5</item>
+</resources>
